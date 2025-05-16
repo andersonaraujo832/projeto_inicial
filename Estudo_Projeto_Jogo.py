@@ -1,4 +1,4 @@
-#Projeto 1 - Dese nvolvimento de Game em Python V1
+#Projeto 1 - Desenvolvimento de Game em Python V1
 
 #Import
 import random 
@@ -42,7 +42,6 @@ letras_erradas = []
 
 #teste de update no github!!!
 print("teste de github")
-
 
 
 
